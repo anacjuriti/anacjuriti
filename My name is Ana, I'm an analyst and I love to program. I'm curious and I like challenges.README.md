@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anacjuriti
+- 👋 Hi, I’m @anajuriti
 - 👀 I’m interested in learn and practice
 - 🌱 I’m currently learning programação
 - 💞️ I’m looking to collaborate on codes and database

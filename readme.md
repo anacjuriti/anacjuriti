@@ -4,53 +4,23 @@ anacjuriti/anacjuriti is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-![image](https://github.com/anacjuriti/anacjuriti/assets/108712844/37a65fe5-78b2-4ae6-ba3c-6ba22e56dcc9)
+
+![image](https://github.com/user-attachments/assets/b98b9976-b3b6-4745-8d67-228cd4455f1d)
+
+# Ana Guimarães 
+**Software Engineer | Data Engineering | Machine Learning | SQL | Python | Cloud Platforms | Oracle CRM**
+
+Recife/PE, Brasil  :earth_americas:
 
 
-## About Me
+## Onde me encontrar :mag_right::world_map:  
 
-Hi!
-I'm Ana, a Data Analyst and Software Developer with experience in SQL, Python, and data visualization tools like Looker Studio and Power BI. I'm focused on applying my skills to solve real-world problems through data analysis and backend development.
-
-
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-<br>
-<div align='left'>
-
-<ul>
-
-<li>
-<a href="https://www.linkedin.com/in/ana-juriti/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  ana--juriti-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="mailto:anacjuriti@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  anacjuriti-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-</li>
-	
-</ul>
-</div>
-
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-<br>
-<br>
-
-<div align='center'>
+[![Linkedin](https://img.shields.io/badge/-ana--juriti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ana-juriti/)](https://www.linkedin.com/in/ana-juriti/)
+[![Gmail Badge](https://img.shields.io/badge/-anacjuriti@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anacjuriti@gmail.com)](mailto:anacjuriti@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/anacjuriti?label=follow&style=social)](https://github.com/anacjuriti)
 
 
-
-
-![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
-
-
-## Minhas Skills
+## Skills :books: :computer:
 
 **Aplicações e dados**
 
@@ -123,12 +93,6 @@ I'm Ana, a Data Analyst and Software Developer with experience in SQL, Python, a
 
 
 
-
-## Onde me encontrar
-
-[![Linkedin](https://img.shields.io/badge/-ana--juriti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ana-juriti/)](https://www.linkedin.com/in/ana-juriti/)
-[![Gmail Badge](https://img.shields.io/badge/-anacjuriti@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anacjuriti@gmail.com)](mailto:anacjuriti@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/anacjuriti?label=follow&style=social)](https://github.com/anacjuriti)
 
 
 

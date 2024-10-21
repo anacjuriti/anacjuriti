@@ -10,7 +10,6 @@ You can click the Preview link to take a look at your changes.
 # Ana Guimarães 
 **Software Engineer | Data Engineering | Machine Learning | SQL | Python | Cloud Platforms | Oracle CRM**
 
-Recife/PE, Brasil  :earth_americas:
 
 
 ## Onde me encontrar :mag_right::world_map:  
